@@ -1,5 +1,3 @@
-Hi rishika how are you 
-
 git status -> to see changes in files
 git add . -> to add in stage area
 git commit -m "message" -> to add message in stage area
