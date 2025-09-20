@@ -1,1 +1,2 @@
-Hey this is git command 
+Hey this is new git command 
+how can i help you buddy 
